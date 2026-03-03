@@ -1,7 +1,6 @@
 #!/bin/bash
 set -x
 
-echo "I attempt to make a change."
 ############################################
 # DSI CONSULTING INC. Project setup script #
 ############################################
